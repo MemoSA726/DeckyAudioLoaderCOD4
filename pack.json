@@ -1,0 +1,10 @@
+{
+  "name": "COD 4 Main Theme",
+  "description": "The main theme for COD 4. Got it from (https://youtu.be/uamh1l_tmeI?si=iz7N8Fa_PP7690ui).",
+  "author": "MemoSA726",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
